@@ -1,7 +1,5 @@
 # PC3
-Here are the codes for the Prior Cascading Concurrency Control (PC^{3}) Method in PostgreSQL.
-
-
+Here are the codes for the Prior Cascading Concurrency Control (PC3) Method in PostgreSQL.
 
 There are 4 parts of the project:
 
