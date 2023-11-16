@@ -1,0 +1,171 @@
+2023-11-11 10:58:35.853 CST,,15188,LOG:  redirecting log output to logging collector process
+2023-11-11 10:58:35.853 CST,,15188,HINT:  Future log output will appear in directory "log".
+2023-11-11 10:59:19.338 CST,,20416,LOG:  redirecting log output to logging collector process
+2023-11-11 10:59:19.338 CST,,20416,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:20:31.577 CST,,21384,LOG:  redirecting log output to logging collector process
+2023-11-11 11:20:31.577 CST,,21384,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:20:39.208 CST,,16688,LOG:  redirecting log output to logging collector process
+2023-11-11 11:20:39.208 CST,,16688,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:20:49.056 CST,,10468,LOG:  redirecting log output to logging collector process
+2023-11-11 11:20:49.056 CST,,10468,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:21:32.735 CST,,18140,LOG:  redirecting log output to logging collector process
+2023-11-11 11:21:32.735 CST,,18140,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:21:44.727 CST,,16764,LOG:  redirecting log output to logging collector process
+2023-11-11 11:21:44.727 CST,,16764,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:21:52.758 CST,,15532,LOG:  redirecting log output to logging collector process
+2023-11-11 11:21:52.758 CST,,15532,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:25:06.101 CST,,11404,LOG:  redirecting log output to logging collector process
+2023-11-11 11:25:06.101 CST,,11404,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:25:13.775 CST,,15472,LOG:  redirecting log output to logging collector process
+2023-11-11 11:25:13.775 CST,,15472,HINT:  Future log output will appear in directory "log".
+2023-11-11 11:26:03.899 CST,,13364,LOG:  redirecting log output to logging collector process
+2023-11-11 11:26:03.899 CST,,13364,HINT:  Future log output will appear in directory "log".
+2023-11-11 15:14:27.872 CST,,19692,LOG:  redirecting log output to logging collector process
+2023-11-11 15:14:27.872 CST,,19692,HINT:  Future log output will appear in directory "log".
+2023-11-11 15:16:23.834 CST,,17856,LOG:  redirecting log output to logging collector process
+2023-11-11 15:16:23.834 CST,,17856,HINT:  Future log output will appear in directory "log".
+2023-11-11 15:19:52.350 CST,,18888,LOG:  redirecting log output to logging collector process
+2023-11-11 15:19:52.350 CST,,18888,HINT:  Future log output will appear in directory "log".
+2023-11-11 15:24:13.518 CST,,1484,LOG:  redirecting log output to logging collector process
+2023-11-11 15:24:13.518 CST,,1484,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:07:58.067 CST,,19692,LOG:  redirecting log output to logging collector process
+2023-11-11 17:07:58.067 CST,,19692,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:07:59.918 CST,,4688,LOG:  redirecting log output to logging collector process
+2023-11-11 17:07:59.918 CST,,4688,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:28:08.604 CST,,17272,LOG:  redirecting log output to logging collector process
+2023-11-11 17:28:08.604 CST,,17272,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:28:24.156 CST,,19716,LOG:  redirecting log output to logging collector process
+2023-11-11 17:28:24.156 CST,,19716,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:28:59.137 CST,,20736,LOG:  redirecting log output to logging collector process
+2023-11-11 17:28:59.137 CST,,20736,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:29:36.666 CST,,9212,LOG:  redirecting log output to logging collector process
+2023-11-11 17:29:36.666 CST,,9212,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:29:58.276 CST,,8224,LOG:  redirecting log output to logging collector process
+2023-11-11 17:29:58.276 CST,,8224,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:30:49.710 CST,,19048,LOG:  redirecting log output to logging collector process
+2023-11-11 17:30:49.710 CST,,19048,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:30:55.346 CST,,16396,LOG:  redirecting log output to logging collector process
+2023-11-11 17:30:55.346 CST,,16396,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:31:36.070 CST,,1156,LOG:  redirecting log output to logging collector process
+2023-11-11 17:31:36.070 CST,,1156,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:31:42.290 CST,,17016,LOG:  redirecting log output to logging collector process
+2023-11-11 17:31:42.290 CST,,17016,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:32:17.618 CST,,9068,LOG:  redirecting log output to logging collector process
+2023-11-11 17:32:17.618 CST,,9068,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:32:25.096 CST,,19372,LOG:  redirecting log output to logging collector process
+2023-11-11 17:32:25.096 CST,,19372,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:33:05.223 CST,,13152,LOG:  redirecting log output to logging collector process
+2023-11-11 17:33:05.223 CST,,13152,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:33:11.843 CST,,18764,LOG:  redirecting log output to logging collector process
+2023-11-11 17:33:11.843 CST,,18764,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:33:56.383 CST,,5212,LOG:  redirecting log output to logging collector process
+2023-11-11 17:33:56.383 CST,,5212,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:34:00.559 CST,,21072,LOG:  redirecting log output to logging collector process
+2023-11-11 17:34:00.559 CST,,21072,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:34:47.601 CST,,16488,LOG:  redirecting log output to logging collector process
+2023-11-11 17:34:47.601 CST,,16488,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:34:50.506 CST,,16128,LOG:  redirecting log output to logging collector process
+2023-11-11 17:34:50.506 CST,,16128,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:35:26.773 CST,,21308,LOG:  redirecting log output to logging collector process
+2023-11-11 17:35:26.773 CST,,21308,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:35:35.464 CST,,19244,LOG:  redirecting log output to logging collector process
+2023-11-11 17:35:35.464 CST,,19244,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:37:26.398 CST,,21236,LOG:  redirecting log output to logging collector process
+2023-11-11 17:37:26.398 CST,,21236,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:41:28.460 CST,,3176,LOG:  redirecting log output to logging collector process
+2023-11-11 17:41:28.460 CST,,3176,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:42:58.265 CST,,15572,LOG:  redirecting log output to logging collector process
+2023-11-11 17:42:58.265 CST,,15572,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:43:28.471 CST,,20240,LOG:  redirecting log output to logging collector process
+2023-11-11 17:43:28.471 CST,,20240,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:44:16.347 CST,,5580,LOG:  redirecting log output to logging collector process
+2023-11-11 17:44:16.347 CST,,5580,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:45:10.398 CST,,9632,LOG:  redirecting log output to logging collector process
+2023-11-11 17:45:10.398 CST,,9632,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:45:49.702 CST,,18012,LOG:  redirecting log output to logging collector process
+2023-11-11 17:45:49.702 CST,,18012,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:46:35.843 CST,,18364,LOG:  redirecting log output to logging collector process
+2023-11-11 17:46:35.843 CST,,18364,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:47:11.415 CST,,2204,LOG:  redirecting log output to logging collector process
+2023-11-11 17:47:11.415 CST,,2204,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:47:56.256 CST,,4068,LOG:  redirecting log output to logging collector process
+2023-11-11 17:47:56.256 CST,,4068,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:48:22.021 CST,,2852,LOG:  redirecting log output to logging collector process
+2023-11-11 17:48:22.021 CST,,2852,HINT:  Future log output will appear in directory "log".
+2023-11-11 17:48:51.894 CST,,18680,LOG:  redirecting log output to logging collector process
+2023-11-11 17:48:51.894 CST,,18680,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:05:10.092 CST,,6308,LOG:  redirecting log output to logging collector process
+2023-11-11 18:05:10.092 CST,,6308,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:05:32.247 CST,,20696,LOG:  redirecting log output to logging collector process
+2023-11-11 18:05:32.247 CST,,20696,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:26:43.744 CST,,6604,LOG:  redirecting log output to logging collector process
+2023-11-11 18:26:43.744 CST,,6604,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:27:01.216 CST,,10236,LOG:  redirecting log output to logging collector process
+2023-11-11 18:27:01.216 CST,,10236,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:35:50.257 CST,,20696,LOG:  redirecting log output to logging collector process
+2023-11-11 18:35:50.257 CST,,20696,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:36:11.682 CST,,11836,LOG:  redirecting log output to logging collector process
+2023-11-11 18:36:11.682 CST,,11836,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:36:31.963 CST,,10288,LOG:  redirecting log output to logging collector process
+2023-11-11 18:36:31.963 CST,,10288,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:37:22.949 CST,,9080,LOG:  redirecting log output to logging collector process
+2023-11-11 18:37:22.949 CST,,9080,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:50:25.633 CST,,9868,LOG:  redirecting log output to logging collector process
+2023-11-11 18:50:25.633 CST,,9868,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:50:37.600 CST,,11036,LOG:  redirecting log output to logging collector process
+2023-11-11 18:50:37.600 CST,,11036,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:50:55.572 CST,,8876,LOG:  redirecting log output to logging collector process
+2023-11-11 18:50:55.572 CST,,8876,HINT:  Future log output will appear in directory "log".
+2023-11-11 18:51:47.033 CST,,7820,LOG:  redirecting log output to logging collector process
+2023-11-11 18:51:47.033 CST,,7820,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:28:21.368 CST,,6524,LOG:  redirecting log output to logging collector process
+2023-11-11 19:28:21.368 CST,,6524,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:28:32.644 CST,,11548,LOG:  redirecting log output to logging collector process
+2023-11-11 19:28:32.644 CST,,11548,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:34:21.177 CST,,10720,LOG:  redirecting log output to logging collector process
+2023-11-11 19:34:21.177 CST,,10720,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:35:24.199 CST,,8780,LOG:  redirecting log output to logging collector process
+2023-11-11 19:35:24.199 CST,,8780,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:35:38.711 CST,,8352,LOG:  redirecting log output to logging collector process
+2023-11-11 19:35:38.711 CST,,8352,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:36:10.200 CST,,8128,LOG:  redirecting log output to logging collector process
+2023-11-11 19:36:10.200 CST,,8128,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:36:16.961 CST,,15832,LOG:  redirecting log output to logging collector process
+2023-11-11 19:36:16.961 CST,,15832,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:36:39.003 CST,,20860,LOG:  redirecting log output to logging collector process
+2023-11-11 19:36:39.003 CST,,20860,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:36:46.466 CST,,15424,LOG:  redirecting log output to logging collector process
+2023-11-11 19:36:46.466 CST,,15424,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:37:06.294 CST,,15720,LOG:  redirecting log output to logging collector process
+2023-11-11 19:37:06.294 CST,,15720,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:37:19.487 CST,,6800,LOG:  redirecting log output to logging collector process
+2023-11-11 19:37:19.487 CST,,6800,HINT:  Future log output will appear in directory "log".
+2023-11-11 19:56:10.984 CST,,3856,LOG:  redirecting log output to logging collector process
+2023-11-11 19:56:10.984 CST,,3856,HINT:  Future log output will appear in directory "log".
+2023-11-11 20:16:59.172 CST,,17596,LOG:  redirecting log output to logging collector process
+2023-11-11 20:16:59.172 CST,,17596,HINT:  Future log output will appear in directory "log".
+2023-11-11 20:17:26.238 CST,,680,LOG:  redirecting log output to logging collector process
+2023-11-11 20:17:26.238 CST,,680,HINT:  Future log output will appear in directory "log".
+2023-11-12 10:38:03.606 CST,,20372,LOG:  redirecting log output to logging collector process
+2023-11-12 10:38:03.606 CST,,20372,HINT:  Future log output will appear in directory "log".
+2023-11-12 10:49:09.584 CST,,19108,LOG:  redirecting log output to logging collector process
+2023-11-12 10:49:09.584 CST,,19108,HINT:  Future log output will appear in directory "log".
+2023-11-12 10:57:38.374 CST,,18944,LOG:  redirecting log output to logging collector process
+2023-11-12 10:57:38.374 CST,,18944,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:29:32.587 CST,,18612,LOG:  redirecting log output to logging collector process
+2023-11-12 11:29:32.587 CST,,18612,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:33:58.578 CST,,15548,LOG:  redirecting log output to logging collector process
+2023-11-12 11:33:58.578 CST,,15548,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:38:59.552 CST,,15864,LOG:  redirecting log output to logging collector process
+2023-11-12 11:38:59.552 CST,,15864,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:41:16.921 CST,,19304,LOG:  redirecting log output to logging collector process
+2023-11-12 11:41:16.921 CST,,19304,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:41:32.695 CST,,1744,LOG:  redirecting log output to logging collector process
+2023-11-12 11:41:32.695 CST,,1744,HINT:  Future log output will appear in directory "log".
+2023-11-12 11:42:26.018 CST,,22456,LOG:  redirecting log output to logging collector process
+2023-11-12 11:42:26.018 CST,,22456,HINT:  Future log output will appear in directory "log".
+2023-11-12 12:33:09.058 CST,,21572,LOG:  redirecting log output to logging collector process
+2023-11-12 12:33:09.058 CST,,21572,HINT:  Future log output will appear in directory "log".
+2023-11-13 10:57:41.714 CST,,8584,LOG:  redirecting log output to logging collector process
+2023-11-13 10:57:41.714 CST,,8584,HINT:  Future log output will appear in directory "log".
+^C
